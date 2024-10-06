@@ -3,7 +3,7 @@ import arrow from '../../assets/arrow.png';
 import fillgreen from '../../assets/fillgreen.png';
 import HalfCirle from '../../assets/HalfCircle.png';
 import About from '../../assets/About.png';
-import Smile from '../../assets/Smile.png';
+import Smile from '../../assets/smile.png';
 
 
 const PyHack = () => {
